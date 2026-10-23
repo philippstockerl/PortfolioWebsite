@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://philippstockerl.github.io/Portfolio-Website/sitemap.xml
+Sitemap: https://philippstockerl.github.io/PortfolioWebsite/sitemap.xml
